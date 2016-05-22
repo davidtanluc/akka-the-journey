@@ -1,9 +1,10 @@
+package akka.intro
+
 /**
   * Created by davidtan on 3/20/16.
   */
 
 import akka.actor.{ActorSystem, Props, Actor}
-
 
 case class WhoToGreet(who: String)
 
