@@ -19,4 +19,6 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "2.2.6" % "test" withSources() withJavadoc(),
   "com.novocode" % "junit-interface" % "0.10" % "test",
   "org.easytesting" % "fest-assert" % "1.4" % "test" withSources() withJavadoc()
+
+
 )
